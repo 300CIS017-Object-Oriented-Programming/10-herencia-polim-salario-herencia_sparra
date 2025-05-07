@@ -1,0 +1,15 @@
+# ninja log v6
+20	817	7682802429790194	build.ninja	e5b401a0466264d
+23	1649	7682802430717116	CMakeFiles/Empleados.dir/src/Senior.cpp.obj	d41e9ec0b824f541
+13	1670	7682802430605808	CMakeFiles/Empleados.dir/src/Persona.cpp.obj	3aa00e9bd5cd5d78
+4	1731	7682802430515320	CMakeFiles/Empleados.dir/src/main.cpp.obj	30f9e20a202fedd5
+1658	3004	7682802447067589	CMakeFiles/Empleados.dir/src/Junior.cpp.obj	8acda87a7f516d91
+1670	3036	7682802447192003	CMakeFiles/Empleados.dir/src/Tecnico.cpp.obj	c586b0837d2d5074
+1731	3136	7682802447803052	CMakeFiles/Empleados.dir/src/Tester.cpp.obj	b632e2e0557139d5
+3005	4279	7682802460535071	CMakeFiles/Empleados.dir/src/Empresa.cpp.obj	944c13cb08f8df45
+4281	4559	7682802473302026	Empleados.exe	fb04894c23bd6fa5
+16	2096	7682804962123011	CMakeFiles/Empleados.dir/src/main.cpp.obj	30f9e20a202fedd5
+13	1653	7682805799639717	CMakeFiles/Empleados.dir/src/Empresa.cpp.obj	944c13cb08f8df45
+1654	1935	7682805816056336	Empleados.exe	fb04894c23bd6fa5
+12	1703	7682812162937223	CMakeFiles/Empleados.dir/src/Empresa.cpp.obj	944c13cb08f8df45
+1704	2012	7682812179866266	Empleados.exe	fb04894c23bd6fa5
