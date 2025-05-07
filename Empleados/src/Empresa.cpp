@@ -5,7 +5,9 @@
 
 #include "Empresa.h"
 
-Empresa::Empresa() {}
+Empresa::Empresa() {
+    inicializarDatos();
+}
 
 Empresa::~Empresa() {
     for (Persona* p : empleados)
@@ -13,14 +15,14 @@ Empresa::~Empresa() {
 }
 
 void Empresa::inicializarDatos() {
-    empleados.push_back(new Junior("Ana", 1000));
-    empleados.push_back(new Junior("Luis", 1050));
-    empleados.push_back(new Senior("Carlos", 2000));
-    empleados.push_back(new Senior("Elena", 2100));
-    empleados.push_back(new Tecnico("Mario", 3000));
-    empleados.push_back(new Tecnico("Lucia", 3200));
-    empleados.push_back(new Tester("Juan", 1500));
-    empleados.push_back(new Tester("Sofia", 1600));
+    empleados.push_back(new Junior("Santi", 1200));
+    empleados.push_back(new Junior("Sebas", 1300));
+    empleados.push_back(new Senior("Lucho", 2100));
+    empleados.push_back(new Senior("Alana", 2400));
+    empleados.push_back(new Tecnico("Marlon", 4000));
+    empleados.push_back(new Tecnico("Pedro", 3200));
+    empleados.push_back(new Tester("Jose", 5500));
+    empleados.push_back(new Tester("Laura", 6600));
 }
 
 void Empresa::procesarNomina(){
